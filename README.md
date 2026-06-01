@@ -1,4 +1,3 @@
-# GilsonBarbosa
 # Olá, eu sou Francisco Gilson Barbosa 👋
 
 ## Analista de Dados | Power BI | Python | SQL | Saúde Pública
@@ -21,7 +20,7 @@ Graduado em Análise e Desenvolvimento de Sistemas e em constante evolução na 
 - Pandas
 - NumPy
 - Matplotlib
-- Scikit-Learn
+- PowerAutomate
 
 ---
 
@@ -64,13 +63,13 @@ Estudos utilizando Machine Learning para identificação de padrões e previsão
 ## 🌎 Conecte-se Comigo
 
 LinkedIn:
-(cole aqui seu link)
+(https://www.linkedin.com/in/gilsonbahrbosa/)
 
 GitHub:
-(cole aqui seu link)
+(https://github.com/gilsonbahrbosa09)
 
 E-mail:
-(seu e-mail)
+(gilsonbahrbosa@gmail.com)
 
 ---
 
